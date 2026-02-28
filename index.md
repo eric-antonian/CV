@@ -27,11 +27,11 @@ Participated in a nine-week summer research program with The Ohio State Universi
 
 Prepared lab materials and substances as a lab preparatory assistant. Also worked as a lab teaching assistant to help students better understand basic lab concepts such as acid/base reactions and nucleophilic substitution as well as proper lab techniques.
 
-## PROJECTS/PRESENTATIONS
+## PAPERS/PRESENTATIONS
 
 Tian, Y., Koo, I., Anderson, B. D., Anitha, M., Vairagkar, A., Santos A., Tian, S., Antonian, E., Paudel, D., Oldro, K. J.,Patel, A. D., Mullins, C. E., Lee, M., Sallam, L., Koshkin, S., Yennawar, H. P., Fecko, J. A., Cutler, T., ... Patterson, A. D. (2026). *PFAS drive gut dysbiosis and antibiotic resistance*. Manuscript submitted for publication 
 
-Made and presented a poster of my research toward SHH medulloblastoma one-carbon metabolism at Emory’s Spring research symposium
+Antonian, E., Lee, Y., Chen, A., Gershon, T., Tikunov, A., Lyles, J., Ke, Y. (2025, April 24). *Characterization of one-carbon metabolism in SHH-driven medulloblastomas* [Symposium presentation]. Emory 2025 Spring Undergraduate Research Symposium, Atlanta, GA, United States.
 
 Antonian, E., Foster, C., Woodward, Patrick. (2023, July 14). *Magnetism of Complex Oxides Containing 4d and 5d Transition Metal Ions* [Symposium presentation]. OSU 2023 Summer Undergraduate Research Symposium, Columbus, OH, United States. 
 
