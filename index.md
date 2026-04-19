@@ -14,11 +14,11 @@ eka5370@psu.edu • (973-396-7941) • https://www.linkedin.com/in/eric-antonian
 •	Graduated with a biomolecular specialization
 •   Relevant coursework:
 
-    •   Introduction to Microbiology lecture: Discuss concepts of microbial physiology, biochemistry, genetics, and evolution with a discussion portion focused on reviewing relevant microbiology papers. 
+    •Introduction to Microbiology lecture: Discuss concepts of microbial physiology, biochemistry, genetics, and evolution with a discussion portion focused on reviewing relevant microbiology papers. 
 
-    •   Introduction to Microbiology lab: Focused on providing students with basic lab techniques important for microbiology including streaking for single colonies, microscopy technique, and various microbial characterization assays.
+    •Introduction to Microbiology lab: Focused on providing students with basic lab techniques important for microbiology including streaking for single colonies, microscopy technique, and various microbial characterization assays.
     
-    •   Food, Health, and Society: Explored pharmacological properties of food, the food-medicine continuum as a determinant of health and well-being, and trends in the industrialization of food.
+    •Food, Health, and Society: Explored pharmacological properties of food, the food-medicine continuum as a determinant of health and well-being, and trends in the industrialization of food.
 
 
 ## RESEARCH EXPERIENCE
